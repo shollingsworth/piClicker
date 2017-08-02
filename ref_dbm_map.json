@@ -1,0 +1,402 @@
+[
+     {
+          "percentage": "100", 
+          "dbm": "-1"
+     }, 
+     {
+          "percentage": "100", 
+          "dbm": "-2"
+     }, 
+     {
+          "percentage": "100", 
+          "dbm": "-3"
+     }, 
+     {
+          "percentage": "100", 
+          "dbm": "-4"
+     }, 
+     {
+          "percentage": "100", 
+          "dbm": "-5"
+     }, 
+     {
+          "percentage": "100", 
+          "dbm": "-6"
+     }, 
+     {
+          "percentage": "100", 
+          "dbm": "-7"
+     }, 
+     {
+          "percentage": "100", 
+          "dbm": "-8"
+     }, 
+     {
+          "percentage": "100", 
+          "dbm": "-9"
+     }, 
+     {
+          "percentage": "100", 
+          "dbm": "-10"
+     }, 
+     {
+          "percentage": "100", 
+          "dbm": "-11"
+     }, 
+     {
+          "percentage": "100", 
+          "dbm": "-12"
+     }, 
+     {
+          "percentage": "100", 
+          "dbm": "-13"
+     }, 
+     {
+          "percentage": "100", 
+          "dbm": "-14"
+     }, 
+     {
+          "percentage": "100", 
+          "dbm": "-15"
+     }, 
+     {
+          "percentage": "100", 
+          "dbm": "-16"
+     }, 
+     {
+          "percentage": "100", 
+          "dbm": "-17"
+     }, 
+     {
+          "percentage": "100", 
+          "dbm": "-18"
+     }, 
+     {
+          "percentage": "100", 
+          "dbm": "-19"
+     }, 
+     {
+          "percentage": "100", 
+          "dbm": "-20"
+     }, 
+     {
+          "percentage": "99", 
+          "dbm": "-21"
+     }, 
+     {
+          "percentage": "99", 
+          "dbm": "-22"
+     }, 
+     {
+          "percentage": "99", 
+          "dbm": "-23"
+     }, 
+     {
+          "percentage": "98", 
+          "dbm": "-24"
+     }, 
+     {
+          "percentage": "98", 
+          "dbm": "-25"
+     }, 
+     {
+          "percentage": "98", 
+          "dbm": "-26"
+     }, 
+     {
+          "percentage": "97", 
+          "dbm": "-27"
+     }, 
+     {
+          "percentage": "97", 
+          "dbm": "-28"
+     }, 
+     {
+          "percentage": "96", 
+          "dbm": "-29"
+     }, 
+     {
+          "percentage": "96", 
+          "dbm": "-30"
+     }, 
+     {
+          "percentage": "95", 
+          "dbm": "-31"
+     }, 
+     {
+          "percentage": "95", 
+          "dbm": "-32"
+     }, 
+     {
+          "percentage": "94", 
+          "dbm": "-33"
+     }, 
+     {
+          "percentage": "93", 
+          "dbm": "-34"
+     }, 
+     {
+          "percentage": "93", 
+          "dbm": "-35"
+     }, 
+     {
+          "percentage": "92", 
+          "dbm": "-36"
+     }, 
+     {
+          "percentage": "91", 
+          "dbm": "-37"
+     }, 
+     {
+          "percentage": "90", 
+          "dbm": "-38"
+     }, 
+     {
+          "percentage": "90", 
+          "dbm": "-39"
+     }, 
+     {
+          "percentage": "89", 
+          "dbm": "-40"
+     }, 
+     {
+          "percentage": "88", 
+          "dbm": "-41"
+     }, 
+     {
+          "percentage": "87", 
+          "dbm": "-42"
+     }, 
+     {
+          "percentage": "86", 
+          "dbm": "-43"
+     }, 
+     {
+          "percentage": "85", 
+          "dbm": "-44"
+     }, 
+     {
+          "percentage": "84", 
+          "dbm": "-45"
+     }, 
+     {
+          "percentage": "83", 
+          "dbm": "-46"
+     }, 
+     {
+          "percentage": "82", 
+          "dbm": "-47"
+     }, 
+     {
+          "percentage": "81", 
+          "dbm": "-48"
+     }, 
+     {
+          "percentage": "80", 
+          "dbm": "-49"
+     }, 
+     {
+          "percentage": "79", 
+          "dbm": "-50"
+     }, 
+     {
+          "percentage": "78", 
+          "dbm": "-51"
+     }, 
+     {
+          "percentage": "76", 
+          "dbm": "-52"
+     }, 
+     {
+          "percentage": "75", 
+          "dbm": "-53"
+     }, 
+     {
+          "percentage": "74", 
+          "dbm": "-54"
+     }, 
+     {
+          "percentage": "73", 
+          "dbm": "-55"
+     }, 
+     {
+          "percentage": "71", 
+          "dbm": "-56"
+     }, 
+     {
+          "percentage": "70", 
+          "dbm": "-57"
+     }, 
+     {
+          "percentage": "69", 
+          "dbm": "-58"
+     }, 
+     {
+          "percentage": "67", 
+          "dbm": "-59"
+     }, 
+     {
+          "percentage": "66", 
+          "dbm": "-60"
+     }, 
+     {
+          "percentage": "64", 
+          "dbm": "-61"
+     }, 
+     {
+          "percentage": "63", 
+          "dbm": "-62"
+     }, 
+     {
+          "percentage": "61", 
+          "dbm": "-63"
+     }, 
+     {
+          "percentage": "60", 
+          "dbm": "-64"
+     }, 
+     {
+          "percentage": "58", 
+          "dbm": "-65"
+     }, 
+     {
+          "percentage": "56", 
+          "dbm": "-66"
+     }, 
+     {
+          "percentage": "55", 
+          "dbm": "-67"
+     }, 
+     {
+          "percentage": "53", 
+          "dbm": "-68"
+     }, 
+     {
+          "percentage": "51", 
+          "dbm": "-69"
+     }, 
+     {
+          "percentage": "50", 
+          "dbm": "-70"
+     }, 
+     {
+          "percentage": "48", 
+          "dbm": "-71"
+     }, 
+     {
+          "percentage": "46", 
+          "dbm": "-72"
+     }, 
+     {
+          "percentage": "44", 
+          "dbm": "-73"
+     }, 
+     {
+          "percentage": "42", 
+          "dbm": "-74"
+     }, 
+     {
+          "percentage": "40", 
+          "dbm": "-75"
+     }, 
+     {
+          "percentage": "38", 
+          "dbm": "-76"
+     }, 
+     {
+          "percentage": "36", 
+          "dbm": "-77"
+     }, 
+     {
+          "percentage": "34", 
+          "dbm": "-78"
+     }, 
+     {
+          "percentage": "32", 
+          "dbm": "-79"
+     }, 
+     {
+          "percentage": "30", 
+          "dbm": "-80"
+     }, 
+     {
+          "percentage": "28", 
+          "dbm": "-81"
+     }, 
+     {
+          "percentage": "26", 
+          "dbm": "-82"
+     }, 
+     {
+          "percentage": "24", 
+          "dbm": "-83"
+     }, 
+     {
+          "percentage": "22", 
+          "dbm": "-84"
+     }, 
+     {
+          "percentage": "20", 
+          "dbm": "-85"
+     }, 
+     {
+          "percentage": "17", 
+          "dbm": "-86"
+     }, 
+     {
+          "percentage": "15", 
+          "dbm": "-87"
+     }, 
+     {
+          "percentage": "13", 
+          "dbm": "-88"
+     }, 
+     {
+          "percentage": "10", 
+          "dbm": "-89"
+     }, 
+     {
+          "percentage": "8", 
+          "dbm": "-90"
+     }, 
+     {
+          "percentage": "6", 
+          "dbm": "-91"
+     }, 
+     {
+          "percentage": "3", 
+          "dbm": "-92"
+     }, 
+     {
+          "percentage": "1", 
+          "dbm": "-93"
+     }, 
+     {
+          "percentage": "1", 
+          "dbm": "-94"
+     }, 
+     {
+          "percentage": "1", 
+          "dbm": "-95"
+     }, 
+     {
+          "percentage": "1", 
+          "dbm": "-96"
+     }, 
+     {
+          "percentage": "1", 
+          "dbm": "-97"
+     }, 
+     {
+          "percentage": "1", 
+          "dbm": "-98"
+     }, 
+     {
+          "percentage": "1", 
+          "dbm": "-99"
+     }, 
+     {
+          "percentage": "1", 
+          "dbm": "-100"
+     }
+]

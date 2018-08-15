@@ -1,5 +1,5 @@
 # Presentation
-[Defcon 26 Slides](./docs/piClicker_presentation_dc26_2018_08_10.odp)
+[Defcon 26 Slides](./docs/piClicker_presentation_dc26_2018_08_10.pdf)
 
 # Command and Control w/ Slack
 * You'll need an AWS account, an will need to create an access id and secret

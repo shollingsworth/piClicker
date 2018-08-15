@@ -1,3 +1,10 @@
 *.pyc
 *.swp
 runfile
+venv
+.gitconfig
+images/
+wordlist.txt
+.env.sh
+src/piClicker.egg-info
+dist/

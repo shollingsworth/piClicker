@@ -1,0 +1,55 @@
+{%- extends "base.html" %}
+
+{% block content %}
+<div class="container">
+  {%- with messages = get_flashed_messages(with_categories=True) %}
+  {%- if messages %}
+    <div class="row">
+      <div class="col-md-12">
+        {{utils.flashed_messages(messages)}}
+      </div>
+    </div>
+  {%- endif %}
+  {%- endwith %}
+    {%- if STATE.can_crack %}
+        <h2>Cracking Enabled - <a href='/can_crack/0'>Disable</a></h2>
+    {%- else %}
+        <h2>Cracking Disabled - <a href='/can_crack/1'>Enable</a></h2>
+    {%- endif %}
+    <h1>Remote BSSIDS</h1>
+    <div class="list-group">
+        {% for val in bssids %}
+            <a href='/bssid/{{val.bssid}}'>{{val.bssid}} - {{val.name}}
+            </a>
+            {%- if val.scanning %}
+            - <b style="color:red">SCANNING</b>
+            {%- endif %}
+            <br>
+        {% endfor %}
+    </div>
+    <h1>Manual BSSIDS</h1>
+    {%- if cracked %}
+    <h1>Cracked</h1>
+    <div>
+        <table>
+            <tr>
+                <th>BSSID</th>
+                <th>SSID</th>
+                <th>Type</th>
+                <th>Date</th>
+                <th>Key</th>
+            </tr>
+        {% for val in cracked %}
+            <tr>
+                <td>{{val.bssid}}</td>
+                <td>{{val.essid}}</td>
+                <td>{{val.type}}</td>
+                <td>{{val.date_human}}</td>
+                <td>{{val.key}}</td>
+            </tr>
+        {% endfor %}
+        </table>
+    </div>
+    {%- endif %}
+</div>
+{%- endblock %}
